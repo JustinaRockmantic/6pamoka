@@ -1,0 +1,162 @@
+.friendly {
+  display: inline-block;
+  /* box-sizing: border-box; */
+  width: 48%;
+  font-size: 15px;
+  vertical-align: top;
+  /* height: 100vh; */
+  background-color: rgb(219, 208, 208);
+  padding: 15px;
+}
+.logo1 {
+  padding: 10px;
+  background-color: grey;
+  margin: 5px;
+  font-weight: bold;
+}
+.navigation1 {
+  text-align: center;
+  /* padding: 3px; */
+  background-color: grey;
+  margin: 5px;
+}
+.header1 {
+  text-align: center;
+  background-color: grey;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 5px;
+}
+/* .body1{
+    display: inline-block;
+    background-color: blueviolet;
+    padding: auto; 
+    margin: 5px;
+  
+} */
+.bar1 {
+  padding: 20% 13.5%;
+  background-color: grey;
+  display: inline-block;
+  margin: 5px;
+  font-weight: bold;
+}
+.area1 {
+  padding: 20% 26%;
+  background-color: grey;
+  display: inline-block;
+  vertical-align: top;
+  /* margin: 5px; */
+  margin-top: 5px;
+  margin-left: 15px;
+  font-weight: bold;
+}
+.footer1 {
+  /* padding: 10px; */
+  background-color: grey;
+  margin: 5px;
+  text-align: center;
+}
+/* antra uzduotis */
+.dvirsus {
+  float: right;
+}
+.logo2 {
+  display: inline-block;
+  vertical-align: top;
+  background-color: grey;
+  font-weight: bold;
+}
+.navigation2 {
+  /* display: inline-block; */
+  vertical-align: top;
+  background-color: grey;
+  float: right;
+  padding-right: 10%;
+}
+.logo3 {
+  background-color: grey;
+  margin: 5px;
+  padding: 10px;
+}
+.intro {
+  text-align: center;
+  background-color: grey;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 5px;
+  font-weight: bold;
+}
+.box1 {
+  display: inline-block;
+  background-color: grey;
+  width: 31.5%;
+  padding-top: 17.5%;
+  padding-bottom: 17.5%;
+  margin: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+/* trecia uzduotis */
+.sbn {
+  /* background-color: grey; */
+  margin: 5px;
+  width: 30%;
+  padding-top: 1%;
+  padding-bottom: 20%;
+  display: inline-block;
+  text-align: top;
+}
+.sonas {
+  padding: 10px;
+  margin: 5px;
+  display: inline-block;
+  float: top;
+}
+.header2 {
+  /* float: right; */
+  vertical-align: top;
+  background-color: grey;
+  width: 60%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: inline-block;
+  width: 312%;
+  text-align: center;
+}
+.bod {
+  /* float: top; */
+  /* vertical-align: top; */
+  background-color: grey;
+  padding-top: 120%;
+  padding-bottom: 120%;
+  margin-top: 10%;
+  display: inline-block;
+  width: 312%;
+  text-align: center;
+}
+/* ketvirta  */
+.dapacia {
+  float: right;
+  /* display: inline-block; */
+}
+.box2 {
+  display: inline-block;
+  background-color: grey;
+  width: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin: 2.3%;
+}
+.box3 {
+  display: inline-block;
+  background-color: grey;
+  width: 31.5%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  margin: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
